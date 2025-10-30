@@ -1,6 +1,10 @@
 import type { Wish, CreateWish, UpdateWish } from "../types.ts"
 
-const url = "http://localhost:3001/wishes"
+const API_BASE =
+    (typeof window !== "undefined" && (window.location.hostname === "localhost" || window.location.hostname === "127.0.0.1"))
+        ? "http://localhost:3001"
+        : "https://bits-orchestra.onrender.com";
+const url = `${API_BASE}/wishes`
 
 async function getWishes(): Promise<Wish[]> {
     try{
