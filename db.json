@@ -1,0 +1,68 @@
+{
+  "wishes": [
+    {
+      "id": "1",
+      "title": "Polaroid Camera",
+      "image": "https://media.endclothing.com/media/catalog/product/2/0/20-06-2023-GH_PLRD-009077_1_1.jpg",
+      "description": "A classic instant-film camera that prints photos on the spot — perfect for capturing fun memories.",
+      "price": 130,
+      "createdAt": "2025-07-25T10:30:00.000Z"
+    },
+    {
+      "id": "2",
+      "title": "Hand-Illustrated Mug",
+      "image": "https://i.etsystatic.com/27041905/r/il/81a269/6046629507/il_600x600.6046629507_ip34.jpg",
+      "description": "A beautifully designed ceramic mug with floral illustration — adds aesthetic charm to her morning coffee or tea.",
+      "price": 24,
+      "createdAt": "2025-07-30T09:30:00.000Z"
+    },
+    {
+      "id": "4",
+      "title": "Marshall Headphones",
+      "image": "https://images.ctfassets.net/javen7msabdh/2SvveWddYNA8sPVvUgF9V2/15669c839e97a7bf6934aa05188e7914/major-iv-brown-plp.jpeg",
+      "description": "Stylish on-ear wireless headphones by Marshall with great sound quality and long battery life.",
+      "price": 200,
+      "createdAt": "2025-08-03T18:21:00.000Z"
+    },
+    {
+      "id": "5",
+      "title": "Necklace",
+      "image": "https://sovajewels.com/upload/resize_cache/imagick/iblock/bb4/1000x1000q100-3tmnknds1g6x7lu3vwefsokvfs25czh7.webp",
+      "description": "A radiant 14K gold pendant with a golden citrine gem symbolizing joy, energy, and self-discovery.",
+      "price": 900,
+      "createdAt": "2025-08-27T07:20:00.000Z"
+    },
+    {
+      "id": "6",
+      "title": "Leather Journal",
+      "image": "https://m.media-amazon.com/images/I/714ZhRaqwBS._AC_SL1001_.jpg",
+      "description": "Handcrafted genuine leather journal with lined pages — perfect for writing thoughts, dreams, and memories.",
+      "price": 45,
+      "createdAt": "2025-09-28T14:15:00.000Z"
+    },
+    {
+      "id": "7",
+      "title": "Aromatherapy Diffuser",
+      "image": "https://m.media-amazon.com/images/I/61eV2sQcATL._AC_SL1500_.jpg",
+      "description": "Ultrasonic essential oil diffuser with LED color-changing lights — creates a relaxing atmosphere at home.",
+      "price": 35,
+      "createdAt": "2025-09-29T11:45:00.000Z"
+    },
+    {
+      "id": "8",
+      "title": "MacBook Pro",
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp14-spacegray-select-202310",
+      "description": "Powerful 14-inch MacBook Pro with M3 chip — ideal for professional work, creative projects, and daily productivity.",
+      "price": 1999,
+      "createdAt": "2025-10-01T09:00:00.000Z"
+    },
+    {
+      "id": "9",
+      "title": "Artisan Coffee Beans",
+      "image": "https://www.mhor.coffee/wp-content/uploads/2023/02/Mhor-9.jpg",
+      "description": "Premium specialty coffee beans from Ethiopia — aromatic, smooth, and perfectly roasted for the ultimate coffee experience.",
+      "price": 8,
+      "createdAt": "2025-10-25T08:20:00.000Z"
+    }
+  ]
+}
