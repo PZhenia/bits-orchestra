@@ -6,17 +6,25 @@ import { WishesProvider } from "./context/WishesContext.tsx"
 import Dashboard from "./pages/Dashboard.tsx"
 import WishPage from "./pages/WishPage.tsx"
 
-const router = createBrowserRouter([
+const router = createBrowserRouter(
+  [
+    {
+      path: "/",
+      element: <Dashboard />,
+    },
+    {
+      path: "/wish/:id",
+      element: <WishPage />,
+    },
+    {
+      path: "*", 
+      element: <Dashboard />, 
+    },
+  ],
   {
-    path: "/",
-    element: <Dashboard />,
-  },
-  {
-    path: "/wish/:id",
-    element: <WishPage />,
-  },
-])
-
+    basename: "/bits-orchestra/", 
+  }
+)
 function App() {
   return (
     <SnackbarProvider>
